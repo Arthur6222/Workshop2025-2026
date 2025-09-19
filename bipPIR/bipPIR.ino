@@ -14,12 +14,11 @@ void setup() {
 }
 
 void loop() {
-  // Toggle avec le bouton
   if (digitalRead(buttonPin) == LOW) {
     pirEnabled = !pirEnabled;
     delay(300);
     Serial.println(pirEnabled ? "PIR activé" : "PIR désactivé");
-    digitalWrite(ledPin, LOW); // éteint LED si on coupe
+    digitalWrite(ledPin, LOW); 
   }
 
   if (pirEnabled) {
