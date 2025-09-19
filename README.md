@@ -7,7 +7,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Capteur :** PIR (détection infrarouge passif)
 
@@ -21,7 +21,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Fonctionnalité :** émetteur laser piloté par le microcontrôleur. Utilisé comme démonstration d’un gadget à activation électronique.
 
@@ -35,7 +35,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Composant :** webcam miniature / module caméra
 
@@ -49,7 +49,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Fonctionnalité :** support d’électronique dissimulé dans un faux CD-R ; utilisé comme démonstration d’intégration.
 
@@ -67,7 +67,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 ## Outils et technologies utilisés
 
-**Microcontrôleurs :** Arduino R4 Yún (briquet, webcam, CD-R, boîte à cigares), ESP8266 (maraudeur Wi-Fi)
+**Microcontrôleurs :** Arduino R4 WIFI (briquet, webcam, CD-R, boîte à cigares), ESP8266 (maraudeur Wi-Fi)
 
 **Capteurs :** PIR (mouvement)
 
@@ -98,7 +98,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Capteur :** PIR (détection infrarouge passif)
 
@@ -112,7 +112,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Fonctionnalité :** émetteur laser piloté par le microcontrôleur. Utilisé comme démonstration d’un gadget à activation électronique.
 
@@ -126,7 +126,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Composant :** webcam miniature / module caméra
 
@@ -140,7 +140,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Statut :** Proof of concept.
 
-**Carte utilisée :** Arduino R4 Yún
+**Carte utilisée :** Arduino R4 WIFI
 
 **Fonctionnalité :** support d’électronique dissimulé dans un faux CD-R ; utilisé comme démonstration d’intégration.
 
@@ -158,7 +158,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 ## Outils et technologies utilisés
 
-**Microcontrôleurs :** Arduino R4 Yún (briquet, webcam, CD-R, boîte à cigares), ESP8266 (maraudeur Wi-Fi)
+**Microcontrôleurs :** Arduino R4 WIFI (briquet, webcam, CD-R, boîte à cigares), ESP8266 (maraudeur Wi-Fi)
 
 **Capteurs :** PIR (mouvement)
 
@@ -178,5 +178,5 @@ Les prototypes sont des POC et ne reproduisent pas toujours les dimensions réel
 
 Si l’objectif est d’obtenir un objet au format réel :
 
-- prévoir des PCBs sur-mesure (ou modules plus compacts), optimisation du routage et réduction de l’alimentation.
-- utiliser des capteurs et batteries de très faible profil (p.ex. LiP
+- prévoir des pièces sur-mesure (ou modules plus compacts), et réduction de l’alimentation (batteries externes).
+  
