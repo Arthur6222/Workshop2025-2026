@@ -45,16 +45,6 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 **Remarque POC :** la forme et les dimensions de l’objet camouflé sont adaptées pour faciliter le montage et le refroidissement de l’électronique.
 
-## CD-R espion – Module supplémentaire (POC)
-
-**Statut :** Proof of concept.
-
-**Carte utilisée :** Arduino R4 WIFI
-
-**Fonctionnalité :** support d’électronique dissimulé dans un faux CD-R ; utilisé comme démonstration d’intégration.
-
-**Intégration matérielle :** réplique imprimée en 3D et/ou modification d’un boîtier existant pour accueillir la carte.
-
 ## Maraudeur Wi-Fi – Scan réseau (POC)
 
 **Statut :** Proof of concept.
