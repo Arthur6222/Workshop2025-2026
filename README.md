@@ -5,7 +5,7 @@ Tous les objets présentés sont des proofs of concept (POC) — démonstrations
 
 ## Briquet espion – Détection de mouvement (POC)
 
-**Statut :** Proof of concept.
+**Statut :** Proof of concept
 
 **Carte utilisée :** Arduino R4 WIFI
 
